@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jto93
 - 👀 I’m interested in tracking my coding journey and working alongside others
-- 🌱 I’m currently learning cloud computing and web app development
+- 🌱 I’m currently learning cloud computing, web app development, and messing around with Python
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me email me at j.t.owens@outlook.com  
 
